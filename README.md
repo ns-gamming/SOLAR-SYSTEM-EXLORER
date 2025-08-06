@@ -48,6 +48,8 @@ Click on planets in the menu to explore them.
 
 Open “Read More” panels to learn extra details.
 
+
+
 🤝 Contribution Guidelines
 Fork the repo and stay tuned for future updates & improvements!
 
@@ -57,8 +59,12 @@ If you wish to customize this project with your own name/brand, you MUST provide
 
 Any usage without credit will be considered misuse.
 
+
+
 📸 Screenshots & Previews
 Add GIFs or Screenshots here of the project in action for better visualization.
+
+
 
 🔒 License & Permissions
 Free to View, Not Free to Copy Without Credit.
@@ -75,6 +81,8 @@ Edit
 Made by Naboraj Sarkar (@nishant.ns.business@gmail.com)
 Usage in commercial projects without permission is prohibited.
 
+
+
 🌟 Support The Creator
 If you enjoyed this project:
 
@@ -88,16 +96,19 @@ Mention my name whenever you showcase it.
 
 Your support encourages me to bring more creative web projects! 💪✨
 
+
 📲 Connect With Me:
 Platform	Link
 📧 Email	nishant.ns.business@gmail.com
-📸 Instagram	@ns_yt_ggaming
-🐦 Twitter (X)	@nishant_ns_yt
-▶️ YouTube	NS Gamming
-🌐 Website	NS Gamming Official
+📸 Instagram	@nishant_sarkar__10k
+🐦 Twitter (X)	@NSGAMMING699
+▶️ YouTube	@Nishant_sarkar
+🌐 Website	nsgamming.xyz
+
 
 🧑‍💻 About The Creator
 Naboraj Sarkar aka Nishant — A passionate developer, designer, content creator, and gamer who loves experimenting with code and building interactive web experiences.
+
 
 🚀 Keep Exploring!
 Fork this project and let’s build amazing stuff together!
