@@ -50,7 +50,7 @@ Open “Read More” panels to learn extra details.
 
 
 
-🤝 Contribution Guidelines
+## 🤝 Contribution Guidelines
 Fork the repo and stay tuned for future updates & improvements!
 
 Star the project ⭐ if you like it — it helps the creator (me) keep going!
@@ -61,12 +61,12 @@ Any usage without credit will be considered misuse.
 
 
 
-📸 Screenshots & Previews
+## 📸 Screenshots & Previews
 Add GIFs or Screenshots here of the project in action for better visualization.
 
 
 
-🔒 License & Permissions
+## 🔒 License & Permissions
 Free to View, Not Free to Copy Without Credit.
 
 You are allowed to fork and use for learning purposes.
@@ -83,7 +83,7 @@ Usage in commercial projects without permission is prohibited.
 
 
 
-🌟 Support The Creator
+## 🌟 Support The Creator
 If you enjoyed this project:
 
 Please ⭐ Star this repository.
@@ -97,7 +97,7 @@ Mention my name whenever you showcase it.
 Your support encourages me to bring more creative web projects! 💪✨
 
 
-📲 Connect With Me:
+## 📲 Connect With Me:
 Platform	Link
 📧 Email	nishant.ns.business@gmail.com
 📸 Instagram	@nishant_sarkar__10k
@@ -106,10 +106,10 @@ Platform	Link
 🌐 Website	nsgamming.xyz
 
 
-🧑‍💻 About The Creator
+## 🧑‍💻 About The Creator
 Naboraj Sarkar aka Nishant — A passionate developer, designer, content creator, and gamer who loves experimenting with code and building interactive web experiences.
 
 
-🚀 Keep Exploring!
+## 🚀 Keep Exploring!
 Fork this project and let’s build amazing stuff together!
 #StayCreative ✨
